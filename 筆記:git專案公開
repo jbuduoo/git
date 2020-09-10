@@ -1,0 +1,23 @@
+# 如何將Git專案在網路上設定為公開，可編輯 #
+
+登錄https://github.com/後
+
+1.點選右上角個人資料/點選your repositories
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648go7yfqdsoK.jpg
+
+2.點選專案
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648cWJ5v8xCJi.jpg
+3.選Settings
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648HfbwTjNo0A.jpg
+4.Change visibility
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648zvM8NiusWo.jpg
+5.設定Make public,並在輸入框輸入專案目錄及專案名(github怕你誤刪所做的防呆機制),再點擊I understand,change repository visibility 就行了。
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648SUhNP4uuMH.jpg
+
+6.測試
+複製該專案的網址(https://github.com/jbuduoo/Code-generation)。登出，再貼上
+
+出現此畫面就成功了:
+https://ithelp.ithome.com.tw/upload/images/20200825/20122648ZNw51aPNPP.jpg
+
+
